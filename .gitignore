@@ -1,0 +1,8 @@
+# Python auxiliary files
+.python-version
+
+# Sopel auxiliary files
+logs
+irc.cfg
+*.db
+malwaredomains.txt

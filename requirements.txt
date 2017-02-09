@@ -1,0 +1,8 @@
+aiohttp>=1.0.0,<1.1.0
+websockets>=3.1,<4.0
+xmltodict
+pytz
+praw
+pyenchant
+pygeoip
+requests>=2.0.0,<2.11.0
